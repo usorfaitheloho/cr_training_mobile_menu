@@ -1,83 +1,68 @@
 # curriculum-cr-training-mobile-menu
 
 
-This is a project performed during the Code Reviewers training.
-<!-- TABLE OF CONTENTS -->
-# :green_book: Table of Contents
-- [:book: About the Project](#about-project)
-  - [:hammer_and_spanner: Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [:computer: Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-- [:silhouettes: Authors](#authors)
-- [:telescope: Future Features](#future-features)
-- [:handshake: Contributing](#contributing)
-- [:star:️ Show your support](#support)
-- [:memo: License](#license)
-<!-- PROJECT DESCRIPTION -->
-# :book: code-review-mobile-menu <a name="about-project"></a>
-> code-review-mobile-menu
-> Public is a try project for developers to test their code review skills and support for programming.
-**code-review-mobile-menu
-Public** is a trial project for developers to test their code review skills and support for programming.
-## :hammer_and_spanner: Built With <a name="built-with"></a>
-### Tech Stack <a name="tech-stack"></a>
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">Javascript</a></li>
-    <li><a href="https://reactjs.org/">CSS</a></li>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-  </ul>
-</details>
-<!-- Features -->
-### Key Features <a name="key-features"></a>
-- **Mobile menu**
-- **responsive Ui**
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- GETTING STARTED -->
-## :computer: Getting Started <a name="getting-started"></a>
-To get a local copy up and running, follow these steps.
+> This is a project that was done during the microverse code review training
+
+
+### Features implemented so far are:
+
+- integrated portfolio mobile menu
+- install linters
+- Implement the mobile menu using javascript 
+
+## Built With
+
+- Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
+- ESlint (A mighty, modern linter that helps you avoid errors and enforce conventions in JavaScript codes)
+- HTML
+- CSS
+
+To get a local copy up and running follow these simple example steps.
+
 ### Prerequisites
-In order to run this project you need:
-### Setup
-Clone this repository to your desired folder:
-```sh
-  git clone git@github.com:Strangeal/code-review-mobile-menu.git
+
+The basic requirements for building the executable are:
+
+- A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
+- VSCode or any other equivalent code editor
+- Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment)
+
+# Getting Started
+
+#### Cloning the project
+
 ```
-### Usage
-To run the project, execute the following command:
-```sh
-  cd code-review-mobile-menu
-  open index.html in your browser
+git clone  https://github.com/usorfaitheloho/cr_training_mobile_menu.git <Your-Build-Directory>
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- AUTHORS -->
-## :silhouettes: Authors <a name="authors"></a>
-:male-technologist: **Justice Bajeri**
-- GitHub: [Justice Bajeri](https://github.com/Strangeal)
-- LinkedIn: [Justice Bajeri](https://www.linkedin.com/in/justice-bajeri-0b7211243/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- FUTURE FEATURES -->
-## :telescope: Future Features <a name="future-features"></a>
-- [ ] **Contact form**
-- [ ] **destrop responsive Ui**
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- CONTRIBUTING -->
-## :handshake: Contributing <a name="contributing"></a>
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- SUPPORT -->
-## :star:️ Show your support <a name="support"></a>
-If you like this project then please give a :star:️ and also share your feedback using github_issues.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- LICENSE -->
-## :memo: License <a name="license"></a>
-This project is [MIT](./MIT.md) licensed.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Getting packages and dependencies
+To get all package modules required to build the project run:
+```
+npm install
+```
+every package module required to build the project is listed in the package.json file. this is used as a reference to get all dependencies.
+
+## Building 
+
+To build the project run:
+```
+npm run build
+```
+after you run this sucessfully you'd locate the build from in the ```dist``` folder located from the parent directory of the project. two files are being built which are, ```main.js and index.html```
+
+## Running
+
+To run the program on a browser through a server run this command in your cli
+```
+npm start
+```
+This should open the page in your localhost on port 8080. then you'd be able to view the built page generated using webpack.
+
+## License
+
+All source code files are licensed under the permissive zlib license
+(http://opensource.org/licenses/Zlib) unless marked differently in a particular folder/file.
+
+## Author
+- **Faith-Eloho-Usor** - [github](https://github.com/usorfaitheloho), [linkedin](https://www.linkedin.com/in/faith-usor), [twitter](https://twitter.com/faithusor16)
 
