@@ -1,81 +1,153 @@
-# curriculum-cr-training-mobile-menu
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
-# :green_book: Table of Contents
-- [:book: About the Project](#about-project)
-  - [:hammer_and_spanner: Built With](#built-with)
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [:computer: Getting Started](#getting-started)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-- [:silhouettes: Authors](#authors)
-- [:telescope: Future Features](#future-features)
-- [:handshake: Contributing](#contributing)
-- [:star:️ Show your support](#support)
-- [:memo: License](#license)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
-# :book: code-review-mobile-menu <a name="about-project"></a>
-> code-review-mobile-menu
-> Public is a try project for developers to test their code review skills and support for programming.
-**code-review-mobile-menu
-Public** is a trial project for developers to test their code review skills and support for programming.
-## :hammer_and_spanner: Built With <a name="built-with"></a>
+
+# 📖 Portfolio mobile menu <a name="about-project"></a>
+
+
+Portfolio mobile menu, is a project where i implement the mobile menu using my recently acquired JavaScript knowledge.
+
+## 🛠 Built With <a name="built-with"></a>
+
 ### Tech Stack <a name="tech-stack"></a>
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">Javascript</a></li>
-    <li><a href="https://reactjs.org/">CSS</a></li>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-  </ul>
-</details>
+
+- HTML
+- CSS
+
+
 <!-- Features -->
+
 ### Key Features <a name="key-features"></a>
+
+- **Contact form**
 - **Mobile menu**
-- **responsive Ui**
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- GETTING STARTED -->
-## :computer: Getting Started <a name="getting-started"></a>
-To get a local copy up and running, follow these steps.
-### Prerequisites
-In order to run this project you need:
-### Setup
-Clone this repository to your desired folder:
-```sh
-  git clone git@github.com:Strangeal/code-review-mobile-menu.git
-```
-### Usage
-To run the project, execute the following command:
-```sh
-  cd code-review-mobile-menu
-  open index.html in your browser
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- AUTHORS -->
-## :silhouettes: Authors <a name="authors"></a>
-:male-technologist: **Justice Bajeri**
-- GitHub: [Justice Bajeri](https://github.com/Strangeal)
-- LinkedIn: [Justice Bajeri](https://www.linkedin.com/in/justice-bajeri-0b7211243/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- FUTURE FEATURES -->
-## :telescope: Future Features <a name="future-features"></a>
-- [ ] **Contact form**
-- [ ] **destrop responsive Ui**
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- CONTRIBUTING -->
-## :handshake: Contributing <a name="contributing"></a>
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- SUPPORT -->
-## :star:️ Show your support <a name="support"></a>
-If you like this project then please give a :star:️ and also share your feedback using github_issues.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- LICENSE -->
-## :memo: License <a name="license"></a>
-This project is [MIT](./MIT.md) licensed.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/usorfaitheloho/cr_training_mobile_menu.git
+```
+
+### Usage
+
+To run the project, open the index.html file with you browser.
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **faith eloho usor**
+
+- GitHub: [@githubhandle](https://github.com/usorfaitheloho)
+- Twitter: [@twitterhandle](https://twitter.com/faith_usor_16)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/faith-usor/)
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add more page**
+- [ ] **Add animation**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/usorfaitheloho/cr_training_mobile_menu/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project! It's help a lot
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank
+
+- microverse
+- my coding partners
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+ 
